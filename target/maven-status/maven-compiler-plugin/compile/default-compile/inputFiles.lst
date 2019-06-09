@@ -1,4 +1,4 @@
-/home/diego/Descargas/lab5/courses_ms/src/main/java/sa/course/resource/CourseResource.java
-/home/diego/Descargas/lab5/courses_ms/src/main/java/sa/course/JAXRSConfiguration.java
-/home/diego/Descargas/lab5/courses_ms/src/main/java/sa/course/service/CourseService.java
-/home/diego/Descargas/lab5/courses_ms/src/main/java/sa/course/model/Course.java
+/home/diego/Descargas/lab5/sa_courses_ms/src/main/java/sa/course/service/CourseService.java
+/home/diego/Descargas/lab5/sa_courses_ms/src/main/java/sa/course/JAXRSConfiguration.java
+/home/diego/Descargas/lab5/sa_courses_ms/src/main/java/sa/course/model/Course.java
+/home/diego/Descargas/lab5/sa_courses_ms/src/main/java/sa/course/resource/CourseResource.java
