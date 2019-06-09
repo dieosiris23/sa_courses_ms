@@ -11,6 +11,7 @@ services:
       test: "curl -I courses-ms:4000/courses-ms/resources/courses/ --fail"
       interval: 20s
       retries: 10
+
   courses-db:
     image: mysql:5.7
     healthcheck:
@@ -24,4 +25,4 @@ services:
       MYSQL_USER: sa
       MYSQL_PASSWORD: 123
     ports:
-      - "3307:3307"
+      - "3306:3306"
